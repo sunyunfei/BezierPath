@@ -30,7 +30,7 @@
  更多复杂的绘制请参考Demo.
  ***
 ## run
-![运行界面](file:////Users/syf/Desktop/1.png)
-![运行界面](file:////Users/syf/Desktop/2.png)
-![运行界面](file:////Users/syf/Desktop/3.png)
-![运行界面](file:////Users/syf/Desktop/4.png)
+![运行界面](file:///Users/syf/Desktop/1.png)
+![运行界面](file:///Users/syf/Desktop/2.png)
+![运行界面](file:///Users/syf/Desktop/3.png)
+![运行界面](file:///Users/syf/Desktop/4.png)
